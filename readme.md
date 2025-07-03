@@ -98,5 +98,3 @@ The dataset was exported from YouTube Studio and includes the following columns:
 
 ---
 
-## 📂 Project Structure
-
